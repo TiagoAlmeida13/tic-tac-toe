@@ -26,7 +26,9 @@ Jogo da velha, cerquilha, jogo do galo ou tic-tac-toe é um dos jogos que todos 
 Fiz esse projeto para estudar um pouco mais de manipulação de DOM através do Javascript.
 
 
-Você consegue ver o projeto rodando acessando [aqui][projeto].
+
+Para rodar o projeto basta fazer um git clone do repositório ou baixar os arquivos e abrir o index.html ou 
+você consegue ver o projeto rodando acessando [aqui][projeto].
 
 
 
